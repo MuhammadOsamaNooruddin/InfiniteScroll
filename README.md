@@ -1,2 +1,2 @@
 # InfiniteScroll
-Created with CodeSandbox
+Created Infinite Scroll using Vanilla Javascript in CodeSandbox.
